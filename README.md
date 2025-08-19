@@ -2,8 +2,7 @@
 
 A Bus ticket booking application made using MERN Stack (MongoDB, Express js, React js, Node js)
 
-[Here](http://bookandfly.herokuapp.com/) is the link of Bus-Booking-Site.
-[Here](https://bus-business.herokuapp.com/) is the link of Business portal of this site for adding buses.
+
 
 The Bus ticket application is composed of the following Features:
 
@@ -12,7 +11,7 @@ The Bus ticket application is composed of the following Features:
 ![Alt text](<Screenshot 2023-12-02 at 2.34.36 PM-2.png>)
 ![Alt text](<Screenshot 2023-12-02 at 2.33.15 PM-1.png>) ![Alt text](<Screenshot 2023-12-02 at 2.33.38 PM-1.png>)
 
-![Demo Video](<40852031-8656-40c8-8aed-e01c5d0394cc.mp4>)
+
 
 ### Front-End
 
@@ -90,17 +89,12 @@ npm -v
 
 Follow the following steps to get development environment running.
 
-* Clone _'Bus-Booking-Project.git'_ repository from GitHub
+* Clone _'Online-Bus-Ticket-Booking-System.git'_ repository from GitHub
 
   ```bash
-  git clone https://github.com/Baljeet9670/Bus-Booking-Project.git
-  ```
+  git clone https://github.com/Preksha-Shiggavi/Online-Bus-Ticket-Booking-System.git
 
-   _OR USING SSH_
-
-  ```bash
-  git clone git@github.com:Baljeet9670/Bus-Booking-Project.git
-  ```
+   
 
 * Install node modules
 
